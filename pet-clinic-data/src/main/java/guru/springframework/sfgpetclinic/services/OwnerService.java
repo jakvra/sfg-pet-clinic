@@ -1,6 +1,6 @@
-package guru.springframewor.sfgpetclinic.services;
+package guru.springframework.sfgpetclinic.services;
 
-import guru.springframewor.sfgpetclinic.model.Owner;
+import guru.springframework.sfgpetclinic.model.Owner;
 
 public interface OwnerService extends CrudService<Owner, Long> {
 
